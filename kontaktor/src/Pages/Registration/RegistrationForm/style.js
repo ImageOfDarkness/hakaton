@@ -12,6 +12,7 @@ export const SregForm = styled.form`
   transform: translate(-50%,-50%);
   background-color: #474a50;
   padding: 10px;
+  border-radius: 10px;
   .input{
     margin-bottom: 20px;
   }

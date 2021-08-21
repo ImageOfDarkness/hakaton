@@ -6,7 +6,7 @@ function RegistrationForm() {
     <SregForm>
       <Form.Input label='Username' placeholder='Username'/>
       <Form.Input label='Password' placeholder='Password' type={"password"}/>
-      <Form.Input label={'email'} placeholder={"email"} type={"email"}></Form.Input>
+      <Form.Input label='email' placeholder="email" type={"email"}></Form.Input>
       <Button content='Registrated' primary />
     </SregForm>
   )
