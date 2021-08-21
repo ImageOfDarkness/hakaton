@@ -7,6 +7,9 @@
   color: black;
 }
 
+
+
+
 .Sform-input{
   width: 200px;
   margin: 0 auto;
@@ -22,5 +25,17 @@
 .registration{
   color: white;
 }
+
+.field{
+  display: flex;
+  flex-direction: column;
+}
+
+.field label{
+  margin-bottom: 10px;
+  color: white;
+}
+
+
 
 

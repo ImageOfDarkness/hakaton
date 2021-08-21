@@ -6,7 +6,7 @@ function Registration() {
   return (
     <div className="Registration">
       <Header></Header>
-      <RegistrationForm/>
+      <RegistrationForm></RegistrationForm>
     </div>
   )
 }

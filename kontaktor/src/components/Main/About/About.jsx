@@ -2,7 +2,9 @@ import {Sabout} from "./style";
 
 function About() {
   return (
-    <Sabout></Sabout>
+    <Sabout>
+      <h1>Креативное пространство</h1>
+    </Sabout>
   )
 }
 
