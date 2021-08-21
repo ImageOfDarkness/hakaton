@@ -7,7 +7,9 @@ function About() {
         <h1>Креативное пространство</h1>
         <p>городской квартал, культурный центр и креативное сообщество на месте бывшего завода</p>
       </SaboutHead>
-      <Saboutimg></Saboutimg>
+      <Saboutimg>
+        <img src="" alt=""/>
+      </Saboutimg>
     </Sabout>
   )
 }

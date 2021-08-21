@@ -1,5 +1,6 @@
 import Header from "../Header/Header";
 import Formm from "../Header/Form/Form";
+import Footer from "../Footer/Footer";
 
 
 function LoginForm() {
@@ -7,6 +8,7 @@ function LoginForm() {
     <div>
       <Header/>
       <Formm/>
+      {/*<Footer></Footer>*/}
     </div>
   )
 }

@@ -11,6 +11,7 @@ function App() {
       {/*<Home></Home>*/}
       <Router>
         <Switch>
+          <Route exact path='/' component={Home}/>
           <Route exact path='/Home' component={Home}/>
           <Route exact path='/LoginForm' component={LoginForm}/>
           <Route exact path='/Registration' component={Registration}/>
