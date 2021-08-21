@@ -1,9 +1,13 @@
-import {Sabout} from "./style";
+import {Sabout, SaboutHead, Saboutimg} from "./style";
 
 function About() {
   return (
     <Sabout>
-      <h1>Креативное пространство</h1>
+      <SaboutHead>
+        <h1>Креативное пространство</h1>
+        <p>городской квартал, культурный центр и креативное сообщество на месте бывшего завода</p>
+      </SaboutHead>
+      <Saboutimg></Saboutimg>
     </Sabout>
   )
 }
